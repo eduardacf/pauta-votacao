@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb+srv://user:123@pauta.fosox.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
