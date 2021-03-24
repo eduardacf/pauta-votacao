@@ -3,8 +3,7 @@
 
 Uma solução criada, utilizando a tecnologia Java em formato de API REST. Voltada para atender as demandas as sessões de votação em cooperativas, desde o processo de criação de pautas e votação destas.
 
-**Visão Geral
-**: A aplicaçao tem como objetivo disponibilizar endpoints para consulta de informações e operações à respeito de:
+**Visão Geral**: A aplicaçao tem como objetivo disponibilizar endpoints para consulta de informações e operações à respeito de:
 
 - Votos de associados em cooperativas, onde cada associado possui um voto e as decisões são tomadas em assembleias, por votação. 
 - Gerenciar as sessões de votação de acordo com os respectivos requisitos:
