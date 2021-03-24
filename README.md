@@ -16,8 +16,7 @@ Uma solução criada, utilizando a tecnologia Java em formato de API REST. Volta
 
 - Contabilizar os votos e dar o resultado da votação na pauta.
 
-**Tecnologias utilizadas:
-**
+**Tecnologias utilizadas:**
 - Java 8 
 - Spring WebFlux
 - Springboot
