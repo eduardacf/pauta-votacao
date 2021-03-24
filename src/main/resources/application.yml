@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: "${MONGO_URI:mongodb://localhost:27017/assembleia}"
+      uri: "mongodb://mongodb+srv://user:123@pauta.fosox.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
